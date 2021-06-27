@@ -1,0 +1,76 @@
+#banner {
+    background-image: url('./img/green_banner.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 20vh;
+    display: table;
+    width: 100%;
+    text-align: center;
+}
+#banner-txt {
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Staatliches', cursive;
+    font-size: 8vw; 
+}
+#about-header {
+    background-color: rgb(47,79,79);
+    display: table;
+    height: 40vh;
+    padding-top: 2%;
+    text-align: center;
+}
+#about-header-txt {
+    font-family: 'Staatliches', cursive;
+    color: whitesmoke;
+    font-size: 5vw;
+}
+#about-content {
+    background-color: rgb(32,37,41);
+    display: table;
+    height: 40vh;
+    text-align: center;
+    padding: 6%;
+    font-size: 1.5vw;
+}
+#about-content-txt {
+    margin: auto;
+    width: 50%;
+    font-family: 'Staatliches', cursive;
+    color: whitesmoke;
+}
+#about-content-txt-1 {
+   font-size: 3.5vh;
+}
+
+#discord-header {
+    background-color: rgb(57,89,89);
+    display: table;
+    height: 40vh;
+    padding-top: 2%;
+    text-align: center;
+}
+#discord-header-txt {
+    font-family: 'Staatliches', cursive;
+    color: whitesmoke;
+    font-size: 5vw;
+}
+#discord-content {
+    background-color: rgb(42,47,51);
+    display: table;
+    height: 40vh;
+    text-align: center;
+    padding: 6%;
+    font-size: 1.5vw;
+}
+#discord-content-txt {
+    margin: auto;
+    width: 50%;
+    font-family: 'Staatliches', cursive;
+    color: whitesmoke;
+}
+#discord-content-txt-1 {
+   font-size: 3.5vh;
+}
